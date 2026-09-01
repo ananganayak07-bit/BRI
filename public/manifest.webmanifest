@@ -1,0 +1,10 @@
+{
+  "name": "Bharat Road Intelligence",
+  "short_name": "BRI",
+  "description": "Predictive road quality and fleet hazard intelligence for Indian roads.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#081210",
+  "theme_color": "#0d766a",
+  "orientation": "any"
+}
